@@ -1,0 +1,70 @@
+% ftp://ftp.funet.fi/pub/TeX/CTAN/macros/latex/contrib/moderncv/examples/template.tex
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{casual}
+\moderncvcolor{blue}
+\renewcommand{\familydefault}{\sfdefault}
+\nopagenumbers{}
+
+% character encoding
+\usepackage[utf8]{inputenc}
+
+% page margins
+\usepackage[scale=0.75]{geometry}
+
+% personal data
+\firstname{Juho}
+\familyname{Vepsäläinen}
+%\title{Curriculum Vitae}
+%\address{street and number}{Jokutie 123, 12345 Perähikiä, Finland}
+%\mobile{+358~123456789}
+%\phone{}
+%\fax{}
+\email{juho.vepsalainen@koodilehto.fi}
+\homepage{www.nixtu.info}
+%\extrainfo{}
+%\photo[64pt][0.4pt]{photo.jpg}
+%\quote{Some quote}
+
+\begin{document}
+\makecvtitle
+
+\section{Education}
+\cventry{2005--2011}{Master of Science}{University of Jyväskylä}
+{Software engineering (open source), mathematics, growth venturing}{}{}
+\cventry{2001--2004}{Abitur/Technician (electronics)}
+{Jyväskylä Educational Consortium}
+{Electronics and general education (English etc.)}{}{}
+
+\section{Experience}
+
+\cventry{2011--}{Freelancer}{Koodilehto co-op}{}{}
+{Web development (Django, MVC3, Ruby on Rails) and startup work.}
+\cventry{2011 Summer}{Software Designer}{Fudeco Oy}{}{}
+{Django and jQuery development for a local media consortium.}
+\cventry{2010--2011}{Contractor}{Mixart New Media LLC}{}{}
+{Implemented HTML5 Canvas based drawing application.}
+\cventry{2008--2010}{3D Designer, Programmer, Research Assistant}{University of Jyväskylä}{}{}
+{3D modeling (Blender) and development (Django, AS2, MediaWiki) for research purposes.}
+\cventry{2005-2009}{Volunteer}{Blender3D}{}{}
+{Wiki maintenance, software development (patches, patch reviewing, design).}
+
+\section{Languages}
+
+\cvitemwithcomment{English}{Excellent}{High grades (both abitur and university).}
+\cvitemwithcomment{Finnish}{Excellent}{Native.}
+
+\section{Computer skills}
+
+\cvdoubleitem{Programming Languages}{JavaScript, Python, C, PHP, Lua, C\#, Ruby, Haskell, ...}
+{Version Control}{git, Subversion, Mercurial}
+\cvdoubleitem{Technologies}{Django, MediaWiki, jQuery, Node.js, ...}
+{Applications}{Blender3D, vim, GIMP, ...}
+
+\section{Interests}
+
+\cvitem{Art}{I enjoy studying and creating art and like to draw.}
+\cvitem{Open Source Development}{I maintain a wide range of projects of my own
+at \url{www.github.com/bebraw}.}
+\cvitem{Sports}{I like endurance sports and cycling in particular.}
+
+\end{document}
