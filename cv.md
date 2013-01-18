@@ -27,6 +27,7 @@
 ## Interests
 
 * Art -- I enjoy studying and creating art. Drawing is fun.
-* Blogging -- I blog quite actively at [nixtu.info](www.nixtu.info) and seldomly at [jster.net](www.jster.net)
+* Blogging -- I blog quite actively at [nixtu.info](http://www.nixtu.info) and
+* seldomly at [jster.net](http://www.jster.net)
 * Open Source Development -- I maintain a [wide range of projects](www.github.com/bebraw)
 * Sports -- I like endurance sports and road cycling in particular
