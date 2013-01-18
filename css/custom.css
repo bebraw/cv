@@ -1,0 +1,13 @@
+body {
+    margin: 1em;
+}
+
+h2::before {
+  float: left;
+  width: 5em;
+  height: 2px;
+  margin-top: 0.6em;
+  margin-right: 0.5em;
+  background: #333;
+  content: '';
+}
