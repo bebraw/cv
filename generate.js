@@ -6,8 +6,18 @@ var fs = require('fs');
 main();
 
 function main() {
-    // TODO: inject output to template
-    fs.writeFileSync('index.html', transform(fs.readFileSync('cv.md', 'utf-8')));
+    var tpl = read('templates/index.tpl');
+    var data = transform(read('cv.md'));
+
+    write('index.html', tpl.replace('{{ content }}', data));
+}
+
+function read(name) {
+    return fs.readFileSync(name, 'utf-8');
+}
+
+function write(name, data) {
+    fs.writeFileSync(name, data);
 }
 
 function transform(data) {
