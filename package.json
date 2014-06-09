@@ -3,26 +3,21 @@
   "private": true,
   "version": "0.1.0",
   "description": "My CV",
-
   "dependencies": {
-    "marked": "== 0.2.7"
+    "marked": "0.3.2"
   },
-
   "main": "generate.js",
-
   "repository": {
     "type": "git",
     "url": "git@github.com/bebraw/cv.git"
   },
-
   "homepage": "https://github.com/bebraw/cv",
-
   "bugs": {
     "url": "https://github.com/bebraw/cv/issues"
   },
-
-  "keywords": ["cv"],
-
+  "keywords": [
+    "cv"
+  ],
   "author": "Juho Vepsalainen",
   "license": "MIT"
 }
