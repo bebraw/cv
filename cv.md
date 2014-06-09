@@ -58,7 +58,7 @@ Since then I have done plenty of development on my own. Most of my projects are 
 * Programming Languages -- JavaScript, CoffeeScript, Python, C, PHP, Lua, C#, Ruby, Haskell
 * Version Control -- git, Subversion
 * Technologies -- Node.js, Django, jQuery, AngularJS, Blender, vim, MediaWiki
-* Operating Systems - OS X, Ubuntu
+* Operating Systems -- OS X, Ubuntu
 
 ## Interests
 
