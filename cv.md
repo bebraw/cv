@@ -23,7 +23,8 @@ For NDA reasons I cannot disclose details on my work always but the following sh
 * Widget development, including backend, on a significant website platform
 * Slideshow editor concept design and prototype - https://github.com/bebraw/template_editor
 * Scrapers for an iPhone app
-* Angular.js consultancy for a legacy project (porting 30 yo. codebase to Angular)
+* Angular.js consultancy (multiple projects)
+* React.js consultancy (single project + own development)
 
 ## Pre-freelancing Experience
 
@@ -39,7 +40,8 @@ My story with open source begins with Blender. Incidentally I came upon the proj
 Since then I have done plenty of development on my own. Most of my projects are available under my GitHub account (https://github.com/bebraw). Besides these some reside below the account of a local geek collective, Geek Collision, which I helped to establish (https://github.com/geekcollision). I've listed some of my primary projects below. Not all of them might be popular but that doesn't mean they aren't useful.
 
 * jswiki - https://github.com/bebraw/jswiki -- jswiki grew out of an innocent little list of game engines. Details: http://royal.pingdom.com/2013/05/22/web-dev-projects/
-* colorjoe - https://github.com/bebraw/colorjoe -- colorjoe was born out of frustration with existing color pickers. All I could find relied on external images. I decided to take another approach and implement the whole thing in JavaScript and CSS. Based on popularity this wasn't a bad choice.
+* reactabular - http://bebraw.github.io/reactabular/ - Versatile table implementation for React.js
+* colorjoe - http://bebraw.github.io/colorjoe/ -- colorjoe was born out of frustration with existing color pickers. All I could find relied on external images. I decided to take another approach and implement the whole thing in JavaScript and CSS. Based on popularity this wasn't a bad choice.
 * setjs - https://github.com/bebraw/setjs -- Sadly JavaScript doesn't come with a proper implementation of a Set data structure yet. setjs fixes this issue. I modeled it based on Python API while keeping the API immutable (no side effects).
 * sugarjs - https://github.com/sugarjs -- This set of tools grew when I decided to learn to write REST APIs. I developed needed database adapters and a REST adapter. Even though it's not a popular project it has served me well when I need to develop APIs quick.
 * annojs - https://github.com/annojs -- This is yet another collection of tools. It contains a QuickCheck inspired testing tool, dependency injection etc. for Node.js.
@@ -52,12 +54,15 @@ Since then I have done plenty of development on my own. Most of my projects are 
 
 * English -- **Excellent**, *High grades (both abitur and university)*
 * Finnish -- **Excellent**, *Native*
+* Italian -- **Absolute Basics**
 
 ## Computer Skills
 
 * Programming Languages -- JavaScript, CoffeeScript, Python, C, PHP, Lua, C#, Ruby, Haskell
+* JavaScript frameworks/libraries - Angular.js, jQuery, React.js
+* Tooling - grunt, gulp, webpack
 * Version Control -- git, Subversion
-* Technologies -- Node.js, Django, jQuery, AngularJS, Blender, vim, MediaWiki
+* Technologies -- Node.js, Django, Blender, vim, MediaWiki
 * Operating Systems -- OS X, Ubuntu
 
 ## Interests
