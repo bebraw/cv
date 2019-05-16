@@ -1,6 +1,6 @@
 # Juho Vepsäläinen - SurviveJS
 
-Most interesting things happen at intersections. During my varied career, I've been exposed to different technologies and cultures. Although my strongest skillset is on the development side, I also have experience on marketing and sales due to running my own business and events. I'm also a known, and awarded, author of technical literature.
+I exist in the intersection of development and marketing. I started my career as a developer but since then I've been exposed to different technologies and cultures. My strongest skillsets are organizational and I find myself using my development and marketing acumen to create value. Due to this, I'm a known figure in the community and an awarded author of a technical literature (SurviveJS). I've also hosted multiple technical conferences (React Finland, GraphQL Finland) as a (co-)director and helped to develop the business concepts.
 
 ## Education - 2001-2004
 
@@ -43,11 +43,11 @@ I was awarded for my efforts in 2017 as I was named as the Finnish Code Ambassad
 
 In 2018, I began to organize technical conferences in Finland with a small group of other developers in a voluntary manner. The first event, React Finland held in April, was a great success. It sold out two months before the conference and had around 300 attendees. The three day conference gave us enough confidence to organize another event in October. GraphQL Finland was smaller in scope and although not sold out, it had over 150 attendees and was well received by the community.
 
-The success on conference side of things might lead to establishing a new event company in Finland to run these kind of things.
+The second edition of React Finland in 2019 was even a greater success and it reached 400 attendees while gaining highly favorable feedback. The event was a major step for the brand and overall execution of the event was on a good level. As a director, I was responsible for the overall planning, certain technical bits (asset generator, site), and marketing (content marketing supported by other initiatives).
 
-On SurviveJS side, I've focused more on consulting since 2017 due to demand. My clients include companies such as Kapsch, eBay, and Kleiner Perkins in addition to a number of smaller companies requiring my specific attention.
+On SurviveJS side, I've focused more on consulting since 2017 due to demand. My clients include companies such as Kapsch, eBay, and Kleiner Perkins in addition to a number of smaller companies requiring my specific attention. I've been exposed to businesses of different sizes while gaining insight to how they operate.
 
-I am one of the organizers of React Vienna and support the local community the best I can.
+At the moment, I live in Vienna and I am one of the organizers of React Vienna while being active and known figure in the community. My time in Vienna has taught me a lot about different cultures while I've also picked up the basics of the German language.
 
 ## Open Source Experience
 
@@ -66,21 +66,22 @@ In addition, I was a core developer of webpack for many years and helped to esta
 
 ## Languages
 
-* English -- **Excellent**, *High grades (both abitur and university)* and proof in form of success as an author
+* English -- **Excellent**, *High grades (both abitur and university)* and proof in form of success as a technical author
 * Finnish -- **Excellent**, *Native*
-* German -- **Basic**, *A2* most likely
+* German -- **Basic**, *A2* or *B1* most likely
 
 ## Computer Skills
 
 * Programming Languages -- JavaScript, TypeScript, Python, C
-* JavaScript frameworks/libraries -- React
+* JavaScript frameworks/libraries -- jQuery, React
 * Tooling -- webpack
 * Version Control -- git
-* Technologies -- Node.js, Blender, vim
+* Technologies -- Node.js, Blender, vim, Visual Studio Code
 
-There's likely a lot more but it's hard to list everything. These days I prefer to see myself rather as an architect. I can design and implement complex systems alone given enough time although it's possible to proceed faster in a good team.
+There's likely a lot more but it's hard to list everything. These days I prefer to see myself rather as an architect. I can design and implement complex systems alone given enough time although it's possible to proceed faster in a good team. I also know about tradeoffs and can operate under heavy pressure while appreciating slack time to allow preparation for the future.
 
 ## Interests
 
-* Art -- I enjoy studying and creating art. Especially drawing and painting are my favorites.
+* Art -- I enjoy studying and creating drawings and paintings.
+* Chess -- I am not the worst player in chess and I can generate a vicious attack faster than you think.
 * Sports -- I am a great fan of hiking and cycling. I don't own a car.
