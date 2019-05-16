@@ -1,17 +1,30 @@
+@page {
+  size: A4;
+
+  /* this affects the margin in the printer settings */ 
+  margin: 25mm 25mm 25mm 25mm;
+} 
+
 body {
-    margin: 4em;
+  margin: 0 auto;
+  max-width: 50vw;
 }
 
-h2::before {
-  float: left;
-  width: 5em;
-  height: 2px;
-  margin-top: 0.6em;
-  margin-right: 0.5em;
-  background: #333;
-  content: '';
+@media print {
+  body {
+    max-width: inherit;
+  }
+}
+
+
+h1, h2, h3, h4, h5 {
+  page-break-after: avoid;
+  page-break-inside: avoid;
+}
+table, figure, dl {
+  page-break-inside: avoid;
 }
 
 h2 {
-  margin-top: 4em;
+  margin-top: 2em;
 }

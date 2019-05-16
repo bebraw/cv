@@ -1,6 +1,8 @@
 # Juho Vepsäläinen - SurviveJS
 
-I exist in the intersection of development and marketing. I started my career as a developer but since then I've been exposed to different technologies and cultures. My strongest skillsets are organizational and I find myself using my development and marketing acumen to create value. Due to this, I'm a known figure in the community and an awarded author of a technical literature (SurviveJS). I've also hosted multiple technical conferences (React Finland, GraphQL Finland) as a (co-)director and helped to develop the business concepts.
+I exist in the intersection of development and marketing. I started my career as a developer but since then I've been exposed to different technologies and cultures. My strongest skillsets are organizational and I find myself using my development and marketing acumen to create value.
+
+Due to this, I'm a known figure in the community and an awarded author of a technical literature (SurviveJS). I've also hosted multiple technical conferences (React Finland, GraphQL Finland) as a (co-)director and helped to develop the business concepts.
 
 ## Education - 2001-2004
 
@@ -49,6 +51,8 @@ On SurviveJS side, I've focused more on consulting since 2017 due to demand. My 
 
 At the moment, I live in Vienna and I am one of the organizers of React Vienna while being active and known figure in the community. My time in Vienna has taught me a lot about different cultures while I've also picked up the basics of the German language.
 
+<p style="page-break-after:always;"></p>
+
 ## Open Source Experience
 
 My story with open source begins with Blender. Incidentally I came upon the project through a university course during which I needed to perform some 3D modeling. As it happens one thing lead to another and I ended up modifying the codebase and submitting changes as patches. My previous experience with embedded C came in handy. Eventually I became a maintainer of the node section of the application and even visited annual Blender Conference a few times, once a speaker.
@@ -70,6 +74,8 @@ In addition, I was a core developer of webpack for many years and helped to esta
 * Finnish -- **Excellent**, *Native*
 * German -- **Basic**, *A2* or *B1* most likely
 
+<p style="page-break-after:always;"></p>
+
 ## Computer Skills
 
 * Programming Languages -- JavaScript, TypeScript, Python, C
@@ -78,7 +84,7 @@ In addition, I was a core developer of webpack for many years and helped to esta
 * Version Control -- git
 * Technologies -- Node.js, Blender, vim, Visual Studio Code
 
-There's likely a lot more but it's hard to list everything. These days I prefer to see myself rather as an architect. I can design and implement complex systems alone given enough time although it's possible to proceed faster in a good team. I also know about tradeoffs and can operate under heavy pressure while appreciating slack time to allow preparation for the future.
+I can design and implement complex systems alone given enough time although it's possible to proceed faster in a good team. I also know about tradeoffs and can operate under heavy pressure while appreciating slack time to allow preparation for the future.
 
 ## Interests
 
