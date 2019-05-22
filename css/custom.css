@@ -10,6 +10,12 @@ body {
   max-width: 50vw;
 }
 
+@media only screen and (max-width: 768px) {
+  body {
+    max-width: 95vw;
+  } 
+}
+
 @media print {
   body {
     max-width: inherit;
