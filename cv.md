@@ -39,7 +39,7 @@ For NDA reasons I cannot disclose details on my work always but the following sh
 
 Given freelancing wasn't the most fulfilling way for me to live my life, I deduced that I should change my direction. As a result I started authoring technical books related to topics such as React, webpack, and maintenance under the SurviveJS brand. So far I've sold over 5000 books self-published. In addition, I've performed training and consulting related to the topics.
 
-During this I had to develop my technical writing and marketing skills and in short doing this changed everything and eventually led me to moving to Vienna, a new environment.
+During this period I had to develop my technical writing and marketing skills and in short doing this changed everything and eventually led me to moving to Vienna, a new environment.
 
 I was awarded for my efforts in 2017 as I was named as the Finnish Code Ambassador by Blue Arrow Awards.
 
@@ -47,18 +47,26 @@ In 2018, I began to organize technical conferences in Finland with a small group
 
 The second edition of React Finland in 2019 was even a greater success and it reached 400 attendees while gaining highly favorable feedback. The event was a major step for the brand and overall execution of the event was on a good level. As a director, I was responsible for the overall planning, certain technical bits (asset generator, site), and marketing (content marketing supported by other initiatives).
 
-On SurviveJS side, I've focused more on consulting since 2017 due to demand. My clients include companies such as Kapsch, eBay, and Kleiner Perkins in addition to a number of smaller companies requiring my specific attention. I've been exposed to businesses of different sizes while gaining insight to how they operate.
+On SurviveJS side, I've focused more on consulting since 2017 due to demand. I've listed some of my clients below:
 
-At the moment, I live in Vienna and I am one of the organizers of React Vienna while being active and known figure in the community. My time in Vienna has taught me a lot about different cultures while I've also picked up the basics of the German language.
+* Kapsch - Angular and webpack consulting (workshop) in collaboration with an external developer
+* eBay - Workshops (webpack, React) and on-site consulting
+* Kleiner Perkins - Remote consulting as a pair in an internal development project (React, design systems)
+* ViewAR - On-site consulting as a pair in an internal development project (React, GraphQL, design systems)
+
+In addition, I've run numerous of workshops in countries around Europe. Sometimes these have been done for a specific business and occasionally I've run them in conferences. The topics have been mainly webpack and React related although I've done occasional marketing consulting as well.
+
+At the moment, I live in Vienna and I am one of the organizers of ViennaJS, React Vienna, and Tech Movie Night while being active and known figure in the community. My time in Vienna has taught me a lot about different cultures while I've also picked up the basics of the German language.
 
 <p style="page-break-after:always;"></p>
 
 ## Open Source Experience
 
-My story with open source begins with Blender. Incidentally I came upon the project through a university course during which I needed to perform some 3D modeling. As it happens one thing lead to another and I ended up modifying the codebase and submitting changes as patches. My previous experience with embedded C came in handy. Eventually I became a maintainer of the node section of the application and even visited annual Blender Conference a few times, once a speaker.
+My story with open source begins with Blender. Incidentally I came upon the project through a university course during which I needed to perform some 3D modeling. As it happens one thing lead to another and I ended up modifying the codebase and submitting changes as patches. My previous experience with embedded C came in handy. Eventually I became a maintainer of the node editor of the application and even visited annual Blender Conference a few times, once a speaker.
 
 Since then I have done plenty of development on my own. Most of my projects are available under my GitHub account (https://github.com/bebraw). Besides these some reside below the account of a local geek collective, Geek Collision, which I helped to establish (https://github.com/geekcollision). I've listed a few examples below. Not all of them might be popular but that doesn't mean they aren't useful.
 
+* webpack-merge - https://github.com/survivejs/webpack-merge -- webpack-merge is the de facto solution for merging webpack configurations and it has millions of downloads every month.
 * jswiki - https://github.com/bebraw/jswiki -- jswiki grew out of an innocent little list of game engines. Details: http://royal.pingdom.com/2013/05/22/web-dev-projects/ . This eventually lead to establishing jster.net, a catalog of JavaScript libraries.
 * Reactabular - https://reactabular.js.org/ -- Reactabular is a framework for building the React table you need.
 * colorjoe - http://bebraw.github.io/colorjoe/ -- colorjoe was born out of frustration with existing color pickers. All I could find relied on external images. I decided to take another approach and implement the whole thing in JavaScript and CSS. Based on popularity this wasn't a bad choice.
@@ -84,7 +92,7 @@ In addition, I was a core developer of webpack for many years and helped to esta
 * Version Control -- git
 * Technologies -- Node.js, Blender, vim, Visual Studio Code
 
-I can design and implement complex systems alone given enough time although it's possible to proceed faster in a good team. I also know about tradeoffs and can operate under heavy pressure while appreciating slack time to allow preparation for the future.
+In addition to computer skills, I know the value of soft ones. In essence, most software problems can be traced down to a softer issue somewhere and I believe as developers we should do far more than only to develop.
 
 ## Interests
 
