@@ -58,8 +58,6 @@ In addition, I've run numerous of workshops in countries around Europe. Sometime
 
 At the moment, I live in Vienna and I am one of the organizers of ViennaJS, React Vienna, and Tech Movie Night while being active and known figure in the community. My time in Vienna has taught me a lot about different cultures while I've also picked up the basics of the German language.
 
-<p style="page-break-after:always;"></p>
-
 ## Open Source Experience
 
 My story with open source begins with Blender. Incidentally I came upon the project through a university course during which I needed to perform some 3D modeling. As it happens one thing lead to another and I ended up modifying the codebase and submitting changes as patches. My previous experience with embedded C came in handy. Eventually I became a maintainer of the node editor of the application and even visited annual Blender Conference a few times, once a speaker.
@@ -81,8 +79,6 @@ In addition, I was a core developer of webpack for many years and helped to esta
 * English -- **Excellent**, *High grades (both abitur and university)* and proof in form of success as a technical author
 * Finnish -- **Excellent**, *Native*
 * German -- **Basic**, *A2* or *B1* most likely
-
-<p style="page-break-after:always;"></p>
 
 ## Computer Skills
 
