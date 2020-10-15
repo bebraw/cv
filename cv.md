@@ -1,8 +1,10 @@
-# Juho Vepsäläinen - SurviveJS
+# Juho Vepsäläinen
 
-I exist in the intersection of development and marketing. I started my career as a developer but since then I've been exposed to different technologies and cultures. My strongest skillsets are organizational and I find myself using my development and marketing acumen to create value.
+I've been working with computers since I was a small kid though I became more serious about programming only after starting at the university. It was during that time that I became interested in open source. Eventually the path led me to found my own company, SurviveJS Oy, built around educating people about JavaScript. I also became involved in the founding of Finland's first React and GraphQL conferences and at the moment operate as the director for the first one.
 
-Due to this, I'm a known figure in the community and an awarded author of a technical literature (SurviveJS). I've also hosted multiple technical conferences (React Finland, GraphQL Finland) as a (co-)director and helped to develop the business concepts.
+I moved to Vienna from Finland around 2017 and since then I've become perhaps more cosmopolitan and cultural person. The time I've spent in Austria has made me appreciate Finnish culture and a return to the roots may be in order one day.
+
+By now, I'm an experienced developer, author, and consultant. I'm a known figure in the community and I've been awarded for my efforts (Blue Arrow Awards).
 
 ## Education - 2001-2004
 
@@ -47,12 +49,16 @@ In 2018, I began to organize technical conferences in Finland with a small group
 
 The second edition of React Finland in 2019 was even a greater success and it reached 400 attendees while gaining highly favorable feedback. The event was a major step for the brand and overall execution of the event was on a good level. As a director, I was responsible for the overall planning, certain technical bits (asset generator, site), and marketing (content marketing supported by other initiatives).
 
+The third edition of React Finland in 2020 has been full of challenges due to the ongoing pandemic and it has taught a lot about crisis messaging and management while forcing the team to cope with the shifting business environment.
+
 On SurviveJS side, I've focused more on consulting since 2017 due to demand. I've listed some of my clients below:
 
 * Kapsch - Angular and webpack consulting (workshop) in collaboration with an external developer
 * eBay - Workshops (webpack, React) and on-site consulting
 * Kleiner Perkins - Remote consulting as a pair in an internal development project (React, design systems)
 * ViewAR - On-site consulting as a pair in an internal development project (React, GraphQL, design systems)
+* Adverity - On-site/remote consulting to improve internal development tooling (webpack)
+* Stagirite - Remote consulting for an upcoming product
 
 In addition, I've run numerous of workshops in countries around Europe. Sometimes these have been done for a specific business and occasionally I've run them in conferences. The topics have been mainly webpack and React related although I've done occasional marketing consulting as well.
 
@@ -65,33 +71,32 @@ My story with open source begins with Blender. Incidentally I came upon the proj
 Since then I have done plenty of development on my own. Most of my projects are available under my GitHub account (https://github.com/bebraw). Besides these some reside below the account of a local geek collective, Geek Collision, which I helped to establish (https://github.com/geekcollision). I've listed a few examples below. Not all of them might be popular but that doesn't mean they aren't useful.
 
 * webpack-merge - https://github.com/survivejs/webpack-merge -- webpack-merge is the de facto solution for merging webpack configurations and it has millions of downloads every month.
-* jswiki - https://github.com/bebraw/jswiki -- jswiki grew out of an innocent little list of game engines. Details: http://royal.pingdom.com/2013/05/22/web-dev-projects/ . This eventually lead to establishing jster.net, a catalog of JavaScript libraries.
+* Sidewind - https://sidewind.js.org/ -- Sidewind is my take on state management within HTML to achieve light, interactive HTML markup.
 * Reactabular - https://reactabular.js.org/ -- Reactabular is a framework for building the React table you need.
 * colorjoe - http://bebraw.github.io/colorjoe/ -- colorjoe was born out of frustration with existing color pickers. All I could find relied on external images. I decided to take another approach and implement the whole thing in JavaScript and CSS. Based on popularity this wasn't a bad choice.
-* CDNperf - http://www.cdnperf.com/ -- I developed this project with a friend of mine in order to monitor performance of JavaScript CDNs. The project was enabled by support from Pingdom.
-* jsDelivr API - https://github.com/jsdelivr/api -- I developed this API based on sugarjs tools to provide access to data on JavaScript CDNs. Details: https://gun.io/blog/jsdeliver-api-experiment-to-success/
 * Elovalo - https://github.com/elovalo/elovalo -- Elovalo is a led cube project (AVR). I helped to design and implement its effect system and developed a simulation system based on Blender (http://hackaday.com/2012/09/03/simulating-led-cubes-in-blender/). In addition I developed a JavaScript based IDE with interactive editing for the project, https://github.com/elovalo/webide .
+* React Finland infrastructure - https://github.com/ReactFinland - During my time with React Finland and conferences, I've developed a wide variety of technology for our purposes including our GraphQL API, websites, and tooling to generate conference graphics and presentations.
 
-In addition, I was a core developer of webpack for many years and helped to establish the project as a mainstream option for bundling. I've developed infrastructure to support my business. This work includes GraphQL APIs, React frontends, websites, and supporting tooling.
+In addition, I was a core developer of webpack for many years and helped to establish the project as a mainstream option for bundling. I've developed infrastructure to support my business. The work includes GraphQL APIs, React frontends, websites, and supporting tooling.
 
 ## Languages
 
 * English -- **Excellent**, *High grades (both abitur and university)* and proof in form of success as a technical author
 * Finnish -- **Excellent**, *Native*
-* German -- **Basic**, *A2* or *B1* most likely
+* German -- **Basic**, *B1* most likely, I use and learn German actively
+* Swedish -- **Elementary**, I've forgotten most but likely I could pick it up fast if needed
 
 ## Computer Skills
 
 * Programming Languages -- JavaScript, TypeScript, Python, C
 * JavaScript frameworks/libraries -- jQuery, React
-* Tooling -- webpack
 * Version Control -- git
-* Technologies -- Node.js, Blender, vim, Visual Studio Code
+* Technologies -- Node.js, Deno, Blender, vim, Visual Studio Code, webpack
 
 In addition to computer skills, I know the value of soft ones. In essence, most software problems can be traced down to a softer issue somewhere and I believe as developers we should do far more than only to develop.
 
 ## Interests
 
 * Art -- I enjoy studying and creating drawings and paintings.
-* Chess -- I am not the worst player in chess and I can generate a vicious attack faster than you think.
+* Chess -- I am not the worst player
 * Sports -- I am a great fan of hiking and cycling. I don't own a car.
