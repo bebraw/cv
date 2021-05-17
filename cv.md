@@ -1,10 +1,10 @@
 # Juho Vepsäläinen
 
-I've been working with computers since I was a small kid though I became more serious about programming only after starting at the university. It was during that time that I became interested in open source. Eventually the path led me to found my own company, SurviveJS Oy, built around educating people about JavaScript. I also became involved in the founding of Finland's first React and GraphQL conferences and at the moment operate as the director for the first one.
+I've been working with computers since I was a small kid though I became more serious about programming only during my university studies. It was during that time that I became interested in open source and eventually the path led me to found my own company, SurviveJS Oy, built around educating people about JavaScript. I also became involved in the founding of Finland's first React and GraphQL conferences and at the moment operate as a conference director.
 
-I moved to Vienna from Finland around 2017 and since then I've become perhaps more cosmopolitan and cultural person. The time I've spent in Austria has made me appreciate Finnish culture and a return to the roots may be in order one day.
+I moved to Vienna from Finland around 2017 and since then I've become perhaps more cosmopolitan and cultural person. The time I've spent in Austria has made me appreciate Finnish culture and I returned to Rautalampi, Finland in 2021 after witnessing the impact of the pandemic on city life and culture in general.
 
-By now, I'm an experienced developer, author, and consultant. I'm a known figure in the community and I've been awarded for my efforts (Blue Arrow Awards).
+By now, I'm an experienced developer, author, and consultant. I'm a known figure in the community and I've been awarded for my efforts (Blue Arrow Awards). I've also been listed twice on the influential ICT persons of the year by Tietoviikko (2019, 2020).
 
 ## Education - 2001-2004
 
@@ -62,7 +62,7 @@ On SurviveJS side, I've focused more on consulting since 2017 due to demand. I'v
 
 In addition, I've run numerous of workshops in countries around Europe. Sometimes these have been done for a specific business and occasionally I've run them in conferences. The topics have been mainly webpack and React related although I've done occasional marketing consulting as well.
 
-At the moment, I live in Vienna and I am one of the organizers of ViennaJS, React Vienna, and Tech Movie Night while being active and known figure in the community. My time in Vienna has taught me a lot about different cultures while I've also picked up the basics of the German language.
+During my time in Vienna I was one of the organizers of ViennaJS, React Vienna, and Tech Movie Night meetups while being active and known figure in the community. I picked up the basics of German and appreciation for different cultures in that period.
 
 ## Open Source Experience
 
@@ -97,6 +97,6 @@ In addition to computer skills, I know the value of soft ones. In essence, most 
 
 ## Interests
 
-* Art -- I enjoy studying and creating drawings and paintings.
-* Chess -- I am not the worst player
-* Sports -- I am a great fan of hiking and cycling. I don't own a car.
+* Art -- I enjoy studying and creating drawings and paintings
+* Chess -- Likely you wouldn't like to play against me
+* Sports -- I am a great fan of hiking and cycling
