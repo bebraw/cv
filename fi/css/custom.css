@@ -1,0 +1,36 @@
+@page {
+  size: A4;
+
+  /* this affects the margin in the printer settings */ 
+  margin: 25mm 25mm 25mm 25mm;
+} 
+
+body {
+  margin: 0 auto;
+  max-width: 50vw;
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    max-width: 95vw;
+  } 
+}
+
+@media print {
+  body {
+    max-width: inherit;
+  }
+}
+
+
+h1, h2, h3, h4, h5 {
+  page-break-after: avoid;
+  page-break-inside: avoid;
+}
+table, figure, dl {
+  page-break-inside: avoid;
+}
+
+h2 {
+  margin-top: 2em;
+}
