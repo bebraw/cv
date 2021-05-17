@@ -8,8 +8,10 @@ main();
 function main() {
     var tpl = read('templates/index.tpl');
     var data = transform(read('cv.md'));
+    var dataFi = transform(read('cv.md'));
 
     write('index.html', tpl.replace('{{ content }}', data));
+    write('index-fi.html', tpl.replace('{{ content }}', dataFi));
 }
 
 function read(name) {
