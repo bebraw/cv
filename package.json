@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "My CV",
   "dependencies": {
-    "marked": "^0.3.3"
+    "marked": "^4.0.10"
   },
   "main": "generate.js",
   "repository": {
