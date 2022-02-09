@@ -1,3 +1,3 @@
 # My Resume
 
-Based on Markdown. Simply run `npm install` and then `./generate.js`.
+Based on Markdown. Simply run `npm install` and then `npm run generate`.
