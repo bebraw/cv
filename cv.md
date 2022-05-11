@@ -86,7 +86,7 @@ In addition, I was a core developer of webpack for many years and helped to esta
 * "SurviveJS - Webpack and React". Self-published through Leanpub. 2015.
 * "SurviveJS - Webpack". Self-published through Leanpub. 2016.
 * "SurviveJS - React". Self-published through Leanpub. 2016.
-* Vepsäläinen, Juho. "Bridging static site generation with the dynamic web" ICWE2022, Upcoming.
+* Vepsäläinen, Juho and Vuorimaa, Petri. "Bridging static site generation with the dynamic web" ICWE2022, Upcoming.
 
 The books are available through https://survivejs.com/ and also in eBook formats. The webpack book is also available on paper through Amazon.
 
