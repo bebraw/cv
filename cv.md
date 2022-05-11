@@ -8,15 +8,15 @@ By now, I'm an experienced developer, author, and consultant. I'm a known figure
 
 ## Education - 2001-2004
 
-* 2001-2004 -- **Abitur/Technician (electronics)**, *Jyväskylä Educational Consortium*, Electronics and general education (English etc.)
-* 2005-2011 -- **Master of Science**, *University of Jyväskylä*, Mathematical Information Technology (final grade 4/5), Mathematics (3/5), Growth Venturing (4/5). ECTS total 366.
+* 2001-2004 – **Abitur/Technician (electronics)**, *Jyväskylä Educational Consortium*, Electronics and general education (English etc.)
+* 2005-2011 – **Master of Science**, *University of Jyväskylä*, Mathematical Information Technology (final grade 4/5), Mathematics (3/5), Growth Venturing (4/5). ECTS total 366.
 
 ## Pre-freelancing Experience - 2005-2011
 
-* 2005-2009 -- **Volunteer, Maintainer**, *Blender*, Wiki maintenance, software development (C, patch review, design)
-* 2008-2010 -- **3D Modeler, Programmer, Research Assistant**, *University of Jyväskylä*, 3D modeling (Blender) and development (Django, AS2, MediaWiki) for research purposes
-* 2010-2011 -- **Contractor**, *Mixart New Media LLC*, JavaScript and HTML5 Canvas development
-* 2011 Summer -- **Software Designer**, *Fudeco Oy*. I developed a Django based backend and a frontend (jQuery) related to forums (moderation) for a local media consortium
+* 2005-2009 – **Volunteer, Maintainer**, *Blender*, Wiki maintenance, software development (C, patch review, design)
+* 2008-2010 – **3D Modeler, Programmer, Research Assistant**, *University of Jyväskylä*, 3D modeling (Blender) and development (Django, AS2, MediaWiki) for research purposes
+* 2010-2011 – **Contractor**, *Mixart New Media LLC*, JavaScript and HTML5 Canvas development
+* 2011 Summer – **Software Designer**, *Fudeco Oy*. I developed a Django based backend and a frontend (jQuery) related to forums (moderation) for a local media consortium
 
 ## Freelancing Experience - 2011-2014
 
@@ -70,33 +70,44 @@ My story with open source begins with Blender. Incidentally I came upon the proj
 
 Since then I have done plenty of development on my own. Most of my projects are available under my GitHub account (https://github.com/bebraw). Besides these some reside below the account of a local geek collective, Geek Collision, which I helped to establish (https://github.com/geekcollision). I've listed a few examples below. Not all of them might be popular but that doesn't mean they aren't useful.
 
-* webpack-merge - https://github.com/survivejs/webpack-merge -- webpack-merge is the de facto solution for merging webpack configurations and it has millions of downloads every month.
-* Sidewind - https://sidewind.js.org/ -- Sidewind is my take on state management within HTML to achieve light, interactive HTML markup.
-* Reactabular - https://reactabular.js.org/ -- Reactabular is a framework for building the React table you need.
-* colorjoe - http://bebraw.github.io/colorjoe/ -- colorjoe was born out of frustration with existing color pickers. All I could find relied on external images. I decided to take another approach and implement the whole thing in JavaScript and CSS. Based on popularity this wasn't a bad choice.
-* Elovalo - https://github.com/elovalo/elovalo -- Elovalo is a led cube project (AVR). I helped to design and implement its effect system and developed a simulation system based on Blender (http://hackaday.com/2012/09/03/simulating-led-cubes-in-blender/). In addition I developed a JavaScript based IDE with interactive editing for the project, https://github.com/elovalo/webide .
-* React Finland infrastructure - https://github.com/ReactFinland - During my time with React Finland and conferences, I've developed a wide variety of technology for our purposes including our GraphQL API, websites, and tooling to generate conference graphics and presentations.
+* webpack-merge - https://github.com/survivejs/webpack-merge – webpack-merge is the de facto solution for merging webpack configurations and it has millions of downloads every week.
+* Sidewind - https://sidewind.js.org/ – Sidewind is my take on state management within HTML to achieve light, interactive HTML markup.
+* Gustwind - https://gustwind.js.org/ – Gustwind is a static site generator built around JSON with Deno. It's both fast and flexible.
+* Reactabular - https://reactabular.js.org/ – Reactabular is a framework for building the React table you need.
+* colorjoe - http://bebraw.github.io/colorjoe/ – colorjoe was born out of frustration with existing color pickers. All I could find relied on external images. I decided to take another approach and implement the whole thing in JavaScript and CSS. Based on popularity this wasn't a bad choice.
+* Elovalo - https://github.com/elovalo/elovalo – Elovalo is a led cube project (AVR). I helped to design and implement its effect system and developed a simulation system based on Blender (http://hackaday.com/2012/09/03/simulating-led-cubes-in-blender/). In addition I developed a JavaScript based IDE with interactive editing for the project, https://github.com/elovalo/webide .
+* React Finland infrastructure - https://github.com/ReactFinland – During my time with React Finland and conferences, I've developed a wide variety of technology for our purposes including our GraphQL API, websites, and tooling to generate conference graphics and presentations.
 
 In addition, I was a core developer of webpack for many years and helped to establish the project as a mainstream option for bundling. I've developed infrastructure to support my business. The work includes GraphQL APIs, React frontends, websites, and supporting tooling.
 
+## Publications
+
+* Vepsäläinen, Juho. "Human, Time and Landscape-Blender as a content production tool." Blender Conference. Vol. 3. 2008.
+* "SurviveJS - Webpack and React". Self-published through Leanpub. 2015.
+* "SurviveJS - Webpack". Self-published through Leanpub. 2016.
+* "SurviveJS - React". Self-published through Leanpub. 2016.
+
+The books are available through https://survivejs.com/ and also in eBook formats. The webpack book is also available on paper through Amazon.
+
 ## Languages
 
-* English -- **Excellent**, *High grades (both abitur and university)* and proof in form of success as a technical author
-* Finnish -- **Excellent**, *Native*
-* German -- **Basic**, *B1* most likely, I use and learn German actively
-* Swedish -- **Elementary**, I've forgotten most but likely I could pick it up fast if needed
+* English – **Excellent**, *High grades (both abitur and university)* and proof in form of success as a technical author
+* Finnish – **Excellent**, *Native*
+* German – **Basic**, *B1* most likely, I use and learn German actively
+* Swedish – **Elementary**, I've forgotten most but likely I could pick it up fast if needed
 
 ## Computer Skills
 
-* Programming Languages -- JavaScript, TypeScript, Python, C
-* JavaScript frameworks/libraries -- jQuery, React
-* Version Control -- git
-* Technologies -- Node.js, Deno, Blender, vim, Visual Studio Code, webpack
+* Programming Languages – JavaScript, TypeScript, Python, C
+* JavaScript frameworks/libraries – jQuery, React
+* Version Control – git
+* Technologies – Deno, Node.js, Blender, vim, Visual Studio Code, webpack
 
 In addition to computer skills, I know the value of soft ones. In essence, most software problems can be traced down to a softer issue somewhere and I believe as developers we should do far more than only to develop.
 
 ## Interests
 
-* Art -- I enjoy studying and creating drawings and paintings
-* Chess -- Likely you wouldn't like to play against me
-* Sports -- I am a great fan of hiking and cycling
+* Art – I enjoy drawing and painting
+* Chess – I don't play as much as I used to but it's still interesting
+* Foraging – I am a big fan of picking berries and mushrooms
+* Sports – I hike and cycle regularly
