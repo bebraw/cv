@@ -6,37 +6,6 @@ I moved to Vienna from Finland around 2017 and since then I've become perhaps mo
 
 By now, I'm an experienced developer, author, and consultant. I'm a known figure in the community and I've been awarded for my efforts (Blue Arrow Awards). I've also been listed twice on the influential ICT persons of the year by Tietoviikko (2019, 2020).
 
-## Education - 2001-2004
-
-* 2001-2004 – **Abitur/Technician (electronics)**, *Jyväskylä Educational Consortium*, Electronics and general education (English etc.)
-* 2005-2011 – **Master of Science**, *University of Jyväskylä*, Mathematical Information Technology (final grade 4/5), Mathematics (3/5), Growth Venturing (4/5). ECTS total 366.
-
-## Pre-freelancing Experience - 2005-2011
-
-* 2005-2009 – **Volunteer, Maintainer**, *Blender*, Wiki maintenance, software development (C, patch review, design)
-* 2008-2010 – **3D Modeler, Programmer, Research Assistant**, *University of Jyväskylä*, 3D modeling (Blender) and development (Django, AS2, MediaWiki) for research purposes
-* 2010-2011 – **Contractor**, *Mixart New Media LLC*, JavaScript and HTML5 Canvas development
-* 2011 Summer – **Software Designer**, *Fudeco Oy*. I developed a Django based backend and a frontend (jQuery) related to forums (moderation) for a local media consortium
-
-## Freelancing Experience - 2011-2014
-
-I was a freelancer between 2011 and 2015. My first actual case was in 2010-2011. During that I developed a Canvas element based drawing tool for RateMyDrawings.com. Technologically it was based on RequireJS (module system) and RightJS (jQuery clone).
-
-During 2012 and 2013 I participated in the local startup scene and went through a couple of failures. Incidentally a hobby project, http://jster.net/, became the biggest success of this era.
-
-For NDA reasons I cannot disclose details on my work always but the following should give you idea of the type of work I performed during this period:
-
-* Maintenance on healthcare related ASP.NET MVC project
-* QR code based discovery portal using Django
-* UI based on given PSD using Django for Fudeco, an earlier employer
-* Photo editor (JS, jQuery) and scraping (Node.js) for http://brgen.no/ . This includes work with Ruby on Rails too.
-* NetDNA (Node.js, Angular, Ionic) - https://github.com/MaxCDN/iptell, https://github.com/MaxCDN/osscdn, https://github.com/MaxCDN/ionic-mobile-maxcdn
-* Widget development, including backend, on a significant website platform
-* Slideshow editor concept design and prototype - https://github.com/bebraw/template_editor
-* Scrapers for an iPhone app
-* Angular.js consultancy (multiple projects)
-* React.js consultancy (single project)
-
 ## Entrepreneur at SurviveJS - 2015-
 
 Given freelancing wasn't the most fulfilling way for me to live my life, I deduced that I should change my direction. As a result I started authoring technical books related to topics such as React, webpack, and maintenance under the SurviveJS brand. So far I've sold over 5000 books self-published. In addition, I've performed training and consulting related to the topics.
@@ -63,6 +32,37 @@ On SurviveJS side, I've focused more on consulting since 2017 due to demand. I'v
 In addition, I've run numerous of workshops in countries around Europe. Sometimes these have been done for a specific business and occasionally I've run them in conferences. The topics have been mainly webpack and React related although I've done occasional marketing consulting as well.
 
 During my time in Vienna I was one of the organizers of ViennaJS, React Vienna, and Tech Movie Night meetups while being active and known figure in the community. I picked up the basics of German and appreciation for different cultures in that period.
+
+## Freelancing Experience - 2011-2014
+
+I was a freelancer between 2011 and 2015. My first actual case was in 2010-2011. During that I developed a Canvas element based drawing tool for RateMyDrawings.com. Technologically it was based on RequireJS (module system) and RightJS (jQuery clone).
+
+During 2012 and 2013 I participated in the local startup scene and went through a couple of failures. Incidentally a hobby project, http://jster.net/, became the biggest success of this era.
+
+For NDA reasons I cannot disclose details on my work always but the following should give you idea of the type of work I performed during this period:
+
+* Maintenance on healthcare related ASP.NET MVC project
+* QR code based discovery portal using Django
+* UI based on given PSD using Django for Fudeco, an earlier employer
+* Photo editor (JS, jQuery) and scraping (Node.js) for http://brgen.no/ . This includes work with Ruby on Rails too.
+* NetDNA (Node.js, Angular, Ionic) - https://github.com/MaxCDN/iptell, https://github.com/MaxCDN/osscdn, https://github.com/MaxCDN/ionic-mobile-maxcdn
+* Widget development, including backend, on a significant website platform
+* Slideshow editor concept design and prototype - https://github.com/bebraw/template_editor
+* Scrapers for an iPhone app
+* Angular.js consultancy (multiple projects)
+* React.js consultancy (single project)
+
+## Pre-freelancing Experience - 2005-2011
+
+* 2005-2009 – **Volunteer, Maintainer**, *Blender*, Wiki maintenance, software development (C, patch review, design)
+* 2008-2010 – **3D Modeler, Programmer, Research Assistant**, *University of Jyväskylä*, 3D modeling (Blender) and development (Django, AS2, MediaWiki) for research purposes
+* 2010-2011 – **Contractor**, *Mixart New Media LLC*, JavaScript and HTML5 Canvas development
+* 2011 Summer – **Software Designer**, *Fudeco Oy*. I developed a Django based backend and a frontend (jQuery) related to forums (moderation) for a local media consortium
+
+## Education - 2001-2004
+
+* 2001-2004 – **Abitur/Technician (electronics)**, *Jyväskylä Educational Consortium*, Electronics and general education (English etc.)
+* 2005-2011 – **Master of Science**, *University of Jyväskylä*, Mathematical Information Technology (final grade 4/5), Mathematics (3/5), Growth Venturing (4/5). ECTS total 366.
 
 ## Open Source Experience
 
