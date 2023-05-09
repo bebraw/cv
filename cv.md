@@ -6,6 +6,16 @@ I moved to Vienna from Finland around 2017 and since then I've become perhaps mo
 
 By now, I'm an experienced developer, author, and consultant. I'm a known figure in the community and I've been awarded for my efforts (Blue Arrow Awards). I've also been listed twice on the influential ICT persons of the year by Tietoviikko (2019, 2020).
 
+## Doctoral researcher at Aalto University - 2022-
+
+Starting from 2022, I resumed my university studies at Aalto University through a lucky break and now I am aiming for a PhD in Computer Science. The theme of my work has to do with the emergence of hybrid models for web development. Essentially my research target is to bridge the static and dynamic realms of web development particularly for Content Management Systems (CMSs) and Static Site Generators (SSGs). Although I haven't been enrolled to the program for long, I've already completed majority of my obligatory studies (40 ECTS credits in total) and managed to get three papers approved by a conference. I have listed the works below:
+
+* ICWE2022 - Bridging Static Site Generation with the Dynamic Web
+* ICWE2023 - The Rise of Disappearing Frameworks in Web Development
+* EURAS2023 - ECMAScript -- The journey of a programming language from an idea to a standard
+
+I expect to be able to complete the study portion of my PhD this year (2023) while making significant progress on papers. Given I have the first works available and a good amount of papers for a PhD is between four and six, I will start the work on the thesis itself soon. The work will also give me a good idea of what is missing.
+
 ## Entrepreneur at SurviveJS - 2015-
 
 Given freelancing wasn't the most fulfilling way for me to live my life, I deduced that I should change my direction. As a result I started authoring technical books related to topics such as React, webpack, and maintenance under the SurviveJS brand. So far I've sold over 5000 books self-published. In addition, I've performed training and consulting related to the topics.
@@ -18,7 +28,7 @@ In 2018, I began to organize technical conferences in Finland with a small group
 
 The second edition of React Finland in 2019 was even a greater success and it reached 400 attendees while gaining highly favorable feedback. The event was a major step for the brand and overall execution of the event was on a good level. As a director, I was responsible for the overall planning, certain technical bits (asset generator, site), and marketing (content marketing supported by other initiatives).
 
-The third edition of React Finland in 2020 has been full of challenges due to the ongoing pandemic and it has taught a lot about crisis messaging and management while forcing the team to cope with the shifting business environment.
+The third edition of React Finland in 2020 was full of challenges due to the ongoing pandemic and it taught me a lot about crisis messaging and management while forcing the team to cope with the shifting business environment. We ran the conference online in 2021 and again live in 2022 before pivoting to Future Frontend in 2023.
 
 On SurviveJS side, I've focused more on consulting since 2017 due to demand. I've listed some of my clients below:
 
